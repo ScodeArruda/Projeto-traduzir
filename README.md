@@ -1,5 +1,7 @@
 # Projeto sistema de traduzir com Angular 8
 
+## Acesse o site para ver o projeto funcionando https://scode-traduzir-c5629.web.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
 ## Development server
