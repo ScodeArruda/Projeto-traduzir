@@ -1,0 +1,45 @@
+.h3-red {
+    margin: auto;
+    padding: 15px;
+    color: brown;
+    margin-top: 50px;
+    text-align: center;
+    border-style: groove;
+    border-radius: 5px;
+}
+
+.h3-green {
+    margin: auto;
+    padding: 15px;
+    color: green;
+    margin-top: 50px;
+    text-align: center;
+    border-style: groove;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: brown;
+    border-color: brown;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+}
+
+.btn-success {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: green;
+    border-color: green;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+}
